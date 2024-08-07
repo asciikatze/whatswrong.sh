@@ -1,4 +1,4 @@
-![components](/whatswrong.png)
+![components](/screenshot.png)
 
 my little bundle of telemetry
 
