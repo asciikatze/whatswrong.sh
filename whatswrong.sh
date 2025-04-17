@@ -7,6 +7,7 @@
 # than we see the current clock speed of the cpu threads.
 # the sensors line to work you need to install lm-sensors. I choose from the sensors output to show only the cpu core temperatures and the cpu fan speed.
 # and at last simple values from the battery to see how its going. I have two batteries so I have two lines there for BAT0 and BAT1 delete the last if you have one.
+
 watch -n 5 '
 if [ -f /var/run/reboot-required ]; then
 	cat /var/run/reboot-required
