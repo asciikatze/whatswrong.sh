@@ -1,4 +1,4 @@
-![components](/screenshot3.png)
+![components](/screenshot4.png)
 
 My little bundle of telemetry.
 
